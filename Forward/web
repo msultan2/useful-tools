@@ -1,0 +1,6 @@
+ListenPort=8082
+HostAddress=172.19.10.225
+HostPort=8080
+ForwardBytes=True
+AccessList=False
+LogDirectory=CNPVAS01

@@ -1,0 +1,106 @@
+
+
+
+-----------------------------------------------
+Transaction time --> Sun Jan 24 09:39:40 EET 2010
+trying to connect to 172.30.38.158 through port 2775 ...
+Successfull connection.
+trying to bind....
+Bind Parameters --> Login : autoSMS1 ; Password : autoSMS1 ; System Type : autoSMS1 ; connection type : TRANSMITTER
+java.net.ConnectException: Connection timed out: connect
+
+
+
+-----------------------------------------------
+Transaction time --> Wed Jan 27 11:12:00 EET 2010
+trying to connect to 172.30.38.158 through port 2775 ...
+Successfull connection.
+trying to bind....
+Bind Parameters --> Login : autoSMS1 ; Password : autoSMS1 ; System Type : autoSMS1 ; connection type : TRANSMITTER
+java.net.ConnectException: Connection timed out: connect
+
+
+
+-----------------------------------------------
+Transaction time --> Wed Jan 27 11:12:39 EET 2010
+trying to connect to 172.30.38.158 through port 2775 ...
+Successfull connection.
+trying to bind....
+Bind Parameters --> Login : autoSMS1 ; Password : autoSMS1 ; System Type : autoSMS1 ; connection type : TRANSMITTER
+java.net.ConnectException: Connection timed out: connect
+
+
+
+-----------------------------------------------
+Transaction time --> Sun Jan 31 13:12:36 EET 2010
+trying to connect to 172.30.38.158 through port 2775 ...
+Successfull connection.
+trying to bind....
+Bind Parameters --> Login : autoSMS1 ; Password : autoSMS1 ; System Type : autoSMS1 ; connection type : TRANSMITTER
+java.net.ConnectException: Connection timed out: connect
+
+
+
+-----------------------------------------------
+Transaction time --> Sun Jan 31 14:22:23 EET 2010
+trying to connect to 172.30.38.158 through port 2775 ...
+Successfull connection.
+trying to bind....
+Bind Parameters --> Login : autoSMS1 ; Password : autoSMS1 ; System Type : autoSMS1 ; connection type : TRANSMITTER
+Bind successful.
+
+-----------------------------------------------
+Transaction time --> Sun Jan 31 14:22:24 EET 2010
+trying to submit a message...
+Message Parameters --> Originator : 5:0:CNP ; Destination : 1:1:20101843434 ; Text : Time:1/24/2010 6:00:00 AM, Traffic:37, MOU:1012, Traffic Delta:2.65, MOU Delta:71.4, Active Subs:341374,,,,,,,,,,,,,,
+Message submitted successfuly.
+message ID: 4B657608
+
+
+-----------------------------------------------
+trying to Unbound from SMSC...
+Successfully unbound from the SMSC
+
+
+
+-----------------------------------------------
+Transaction time --> Sun Jan 31 14:23:40 EET 2010
+trying to connect to 172.30.38.158 through port 2775 ...
+Successfull connection.
+trying to bind....
+Bind Parameters --> Login : autoSMS1 ; Password : autoSMS1 ; System Type : autoSMS1 ; connection type : TRANSMITTER
+Bind successful.
+
+-----------------------------------------------
+Transaction time --> Sun Jan 31 14:23:40 EET 2010
+trying to submit a message...
+Message Parameters --> Originator : 5:0:Sultan ; Destination : 1:1:20101843434 ; Text : Time:1/24/2010 6:00:00 AM, Traffic:37, MOU:1012, Traffic Delta:2.65, MOU Delta:71.4, Active Subs:341374,,,,,,,,,,,,,,
+Message submitted successfuly.
+message ID: 4B657654
+
+
+-----------------------------------------------
+trying to Unbound from SMSC...
+Successfully unbound from the SMSC
+
+
+
+-----------------------------------------------
+Transaction time --> Sun Jan 31 14:24:03 EET 2010
+trying to connect to 172.30.38.158 through port 2775 ...
+Successfull connection.
+trying to bind....
+Bind Parameters --> Login : autoSMS1 ; Password : autoSMS1 ; System Type : autoSMS1 ; connection type : TRANSMITTER
+Bind successful.
+
+-----------------------------------------------
+Transaction time --> Sun Jan 31 14:24:03 EET 2010
+trying to submit a message...
+Message Parameters --> Originator : 5:0:Sultan ; Destination : 1:1:20101843434 ; Text : Testing :)
+Message submitted successfuly.
+message ID: 4B65766B
+
+
+-----------------------------------------------
+trying to Unbound from SMSC...
+Successfully unbound from the SMSC

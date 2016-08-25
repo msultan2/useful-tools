@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Promotion Configuration Parameters</comment>
+
+<entry key="ServiceName">Header</entry>
+
+<entry key="DB_IP">CNPVAS03</entry>
+<entry key="DB_Port">3307</entry>
+<entry key="DB_Name">Main_Conf</entry>
+<entry key="DB_UserName">MailChecker</entry>
+<entry key="DB_Password">MailChecker</entry>
+<entry key="DB_Type">MySQL</entry>
+
+<entry key="log.iDELIM">,</entry>
+<entry key="log.oDELIM">,</entry>
+
+<entry key="Log_DB_IP">activedb</entry>
+<entry key="Log_DB_Type">MySQL</entry>
+<entry key="Log_DB_Port">3306</entry>
+<entry key="Log_DB_UserName">Writer</entry>
+<entry key="Log_DB_Password">Writer</entry>
+<entry key="Log_DB_DataBase">Loggers</entry>
+<entry key="Log_DB_TableName">Java_Logs</entry>
+
+</properties>

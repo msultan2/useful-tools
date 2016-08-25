@@ -1,0 +1,6 @@
+ListenPort=3309
+HostAddress=10.230.91.94
+HostPort=1521
+ForwardBytes=True
+AccessList=False
+LogDirectory=CP

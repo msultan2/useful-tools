@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Mail Configuration Parameters</comment>
+
+<entry key="ServiceName">Header</entry>
+
+<entry key="DB_IP">CNPVAS03</entry>
+<entry key="DB_Port">3307</entry>
+<entry key="DB_Name">Main_Conf</entry>
+<entry key="DB_UserName">Reader</entry>
+<entry key="DB_Password">Reader</entry>
+<entry key="DB_TableName">Reader</entry>
+<entry key="DB_Type">MySQL</entry>
+
+<entry key="MailHost">10.230.95.91</entry>
+<entry key="MailAccount">CNP.VAS@vodafone.com</entry>
+<entry key="MailPort">25</entry>
+<entry key="MailPop3_Link">owa.vodafone.com.eg</entry>
+<entry key="MailUser_auth">CNPVAS</entry>
+<entry key="MailBody">Exchange Test mail</entry>
+
+
+<entry key="Log_DB_IP">CNPVAS01</entry>
+<entry key="Log_DB_Type">MySQL</entry>
+<entry key="Log_DB_Port">3306</entry>
+<entry key="Log_DB_UserName">Writer</entry>
+<entry key="Log_DB_Password">Writer</entry>
+<entry key="Log_DB_DataBase">Loggers</entry>
+<entry key="Log_DB_TableName">Java_Logs</entry>
+
+<entry key="log.iDELIM">,</entry>
+<entry key="log.oDELIM">,</entry>
+
+</properties>
+

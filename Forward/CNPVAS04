@@ -1,0 +1,6 @@
+ListenPort=3307
+HostAddress=172.23.201.55
+HostPort=3306
+ForwardBytes=True
+AccessList=False
+LogDirectory=CNPVAS04

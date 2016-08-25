@@ -1,0 +1,6 @@
+ListenPort=3307
+HostAddress=activedb
+HostPort=3306
+ForwardBytes=True
+AccessList=False
+LogDirectory=CNPVAS01
